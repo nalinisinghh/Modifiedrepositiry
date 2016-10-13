@@ -1,5 +1,9 @@
 nalini singh ....
+<<<<<<< HEAD
 
 line 3
 
 
+=======
+line 2
+>>>>>>> 8f5131c07e2d9fee34cfbf75faeea152a5729f16
